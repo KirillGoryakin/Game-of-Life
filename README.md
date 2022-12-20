@@ -2,7 +2,7 @@
 Just a Game of Life.
 
 ## Live demo
-
+https://game-of-life-kirillgoryakin.vercel.app/
 
 ## Technologies:
 - React JS
